@@ -1,0 +1,25 @@
+{
+  "name": "TrabalhoFinalGraduacao-UNIFEI-SI",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagosilva96/TrabalhoFinalGraduacao-UNIFEI-SI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagosilva96/TrabalhoFinalGraduacao-UNIFEI-SI/issues"
+  },
+  "homepage": "https://github.com/thiagosilva96/TrabalhoFinalGraduacao-UNIFEI-SI#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "knex": "^0.21.6",
+    "mysql": "^2.18.1"
+  }
+}
